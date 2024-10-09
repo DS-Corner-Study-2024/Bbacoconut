@@ -29,6 +29,7 @@ console.log(f); 	// 코드 2
 페이지 이동 없이 서버에 요청을 보내고 응답을 받을 수 있게 한다.
 
 
+
 //Programming Quiz
 
 //1번
