@@ -27,6 +27,6 @@ function littleHeavyTask() {
     console.log('국어는 할 게 두 번째로 많다.');
 }
 
-setTimeout(heavyTask, 0);
+setTimeout(heavyTask, 0); 
 console.log('영어는 할 게 제일 적다.');
 setTimeout(littleHeavyTask, 0);

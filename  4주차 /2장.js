@@ -19,15 +19,14 @@ const relationship = {
 
 const c = 0;
 const d = c ?? 3; 
-console.log(d);		// 코드 1
+console.log(d);     // 코드 1
 
 const e = null;
 const f = e ?? 3;
-console.log(f); 	// 코드 2
+console.log(f);     // 코드 2
 
 6. ( AJAX  ) 는 비동기적 웹 서비스를 개발할 때 사용하는 기법으로,
 페이지 이동 없이 서버에 요청을 보내고 응답을 받을 수 있게 한다.
-
 
 
 //Programming Quiz
