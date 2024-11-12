@@ -1,0 +1,14 @@
+{
+  "name": "npmtest",
+  "version": "0.0.1",
+  "description": "hello package .json",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "choo",
+  "license": "ISC",
+  "dependencies": {
+    "package": "^1.0.1"
+  }
+}
