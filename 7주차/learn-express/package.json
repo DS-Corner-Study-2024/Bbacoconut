@@ -1,0 +1,11 @@
+{
+  "name": "learn-express",
+  "version": "0.0.1",
+  "description": "익스프레스를 배우자",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Choo",
+  "license": "MIT"
+}
