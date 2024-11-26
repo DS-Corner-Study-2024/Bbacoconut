@@ -9,6 +9,7 @@ const usersRouter = require('./routes/users');
 const commentsRouter = require('./routes/comments');
 
 const app = express();
+
 app.set('port', process.env.PORT || 3001);
 app.set('view engine', 'html');
 nunjucks.configure('views', {
